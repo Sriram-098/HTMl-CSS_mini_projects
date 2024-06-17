@@ -1,0 +1,72 @@
+.top-section {
+    background-color: #fb4e71;
+    height: 30vh;
+}
+
+.bottom-section {
+    background-color: #e6f6ff;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.card1 {
+    background-color: #ffffff;
+    margin: 5px;
+}
+
+.head1 {
+    padding: 5px;
+    font-weight: bold;
+    font-size: 24px;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.para1 {
+    padding: 5px;
+    font-weight: normal;
+    font-size: 14px;
+    color: #ffffff;
+    font-family: "Roboto";
+    text-align: left;
+}
+
+.image {
+    height: 150px;
+    width: 100px;
+    padding: 10px;
+}
+
+.main2 {
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding: 10px;
+    text-align: left;
+}
+
+.main3 {
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: "Roboto";
+    padding: 8px;
+    text-align: left;
+}
+
+.para2 {
+    color: #888888;
+    padding: 8px;
+    font-size: 16px;
+}
+
+.main4 {
+    color: #323f4b;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: "Roboto";
+    padding: 5px;
+
+}
